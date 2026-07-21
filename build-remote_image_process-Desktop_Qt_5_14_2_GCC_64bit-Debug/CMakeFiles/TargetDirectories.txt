@@ -1,0 +1,4 @@
+/home/wangdetong/build-remote_image_process-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/wangdetong/build-remote_image_process-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/wangdetong/build-remote_image_process-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/remote_image_process.dir
+/home/wangdetong/build-remote_image_process-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/remote_image_process_autogen.dir

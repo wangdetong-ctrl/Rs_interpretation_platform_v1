@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+91019a0fa07d5aab327f763c556e5297 /home/wangdetong/remote_image_process/remote_image_process_zh_CN.ts
+2561546310f5334032405d243eb52bfd CMakeFiles/remote_image_process_autogen
