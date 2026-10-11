@@ -4,7 +4,7 @@
 
 ### Remote Sensing Interpretation Platform · v1
 
-面向高分二号卫星数据的预处理与遥感影像变化检测桌面平台
+面向高分二号卫星等遥感数据解译桌面平台
 
 ![Version](https://img.shields.io/badge/version-v1.0-2563EB?style=flat-square)
 ![Qt](https://img.shields.io/badge/Qt-5.14.2-41CD52?style=flat-square&logo=qt&logoColor=white)
